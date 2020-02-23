@@ -1,5 +1,6 @@
 {
   "name": "angular-lib-live-reload-example",
+  "description": "Setting up live realod for Angular CLI Libraries",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
